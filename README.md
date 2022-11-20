@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.last.fm/TokyoEyeshadow" target="_blank">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=98914q794w9xxppcedkipyro8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=5fdcec&bar_color_cover=false" align="center" >
+<a href="https://www.last.fm/TokyoEyeshadow" target="_blank" align="center">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=98914q794w9xxppcedkipyro8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=5fdcec&bar_color_cover=false"  >
 </a>
 
