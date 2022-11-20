@@ -1,10 +1,11 @@
 ## Hello
 <p align="center">
   <img src="https://media.tenor.com/0omhISW0XwoAAAAC/frederica-miyamoto-deresute.gif" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koloru&theme=nord_dark" />
 </p>
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koloru&theme=nord_dark" />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
