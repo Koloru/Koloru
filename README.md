@@ -1,4 +1,4 @@
-## Hello
+![profile views](https://komarev.com/ghpvc/?username=koloru&style=flat-square)
 <p align="center">
   <img src="https://media.tenor.com/0omhISW0XwoAAAAC/frederica-miyamoto-deresute.gif" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koloru&theme=nord_dark" />
