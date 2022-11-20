@@ -11,3 +11,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=98914q794w9xxppcedkipyro8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=5fdcec&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+<a href="https://www.mixcloud.com/kento520/" target="_blank">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=98914q794w9xxppcedkipyro8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=5fdcec&bar_color_cover=false" align="left" height="440">
+</a>
+
