@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="15" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=green"  />
+<img align="right" height="15" src="https://komarev.com/ghpvc/?username=koloru&style=flat-square&color=blue"  />
 
 ###
 
