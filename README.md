@@ -25,4 +25,4 @@
 
 ###
 
-<--- https://count.getloli.com/get/@:Koloru -->
+<!-- https://count.getloli.com/get/@:Koloru -->
