@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://media.tenor.com/0omhISW0XwoAAAAC/frederica-miyamoto-deresute.gif"  />
+  <img height="300" src="https://project-imas.wiki/images/c/ce/FredericaTBS4.png"  />
 </div>
 
 ###
