@@ -10,8 +10,9 @@
   
 </div>
 
-### <div align="center">Hello there! I'm Color. I'm a Frontend developer who just likes to do random stuff. It's nice to meet you</div>
-##### <div align="center">Please don't hesitate to reach out! I like talking to people(I never shut up)</div>
+### <div align="center">Nice to meet you! I'm Color.</div>
+#### <div align="center">I'm a Frontend developer who just likes to do random stuff.</div>
+#### <div align="center">Please don't hesitate to reach out! I like talking to people(I never shut up)</div>
 #### <div align="center">[My Portfolio](http://koloru.github.io) | Discord: Color#1017 </div>
 <div align="center">
   <h3>Stuff I'm learning</h3>
