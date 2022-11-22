@@ -1,6 +1,5 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=Koloru&&style=flat-square)  
-  
-<img align="right" height="100" src="https://spotify-github-profile.vercel.app/api/view?uid=98914q794w9xxppcedkipyro8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=5fdcec&bar_color_cover=true"  />
+<img align="left" height="100" src="https://spotify-github-profile.vercel.app/api/view?uid=98914q794w9xxppcedkipyro8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=5fdcec&bar_color_cover=true"  />
 <br clear="both"/>
 
 <div align="center">
@@ -8,10 +7,9 @@
   
 </div>  
   
-<p align="center">
-  <h4><a href="http://koloru.github.io">![FhnO_jsacAIu1r5](https://user-images.githubusercontent.com/55258916/203371902-c767f4f8-e335-497b-ab34-03172a7425d8.jpg)
-My Portfolio</a></h4> | Discord: Color#1017
-</p>  
+#### <div align="center">[My Portfolio](http://example/com) | Discord: Color#1017 </div>
+###### <div align="center">Don't hesitate to reach out! I like talking to people(I never shut up)</div>
+
   
 
 <br/>  
