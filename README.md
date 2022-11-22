@@ -1,12 +1,16 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=Koloru&&style=flat-square)  
 <img align="left" height="100" src="https://spotify-github-profile.vercel.app/api/view?uid=98914q794w9xxppcedkipyro8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=5fdcec&bar_color_cover=true"  />
 <br clear="both"/>
+<br>
 
+
+<br>
 <div align="center">
 <img src="https://hidamarirhodonite.kirara.ca/chara2/131/7.png" align="center" height="" width="450" />
   
-</div>  
-  
+</div>
+
+### <div align="center">Hello there! I'm Color. I'm a Frontend developer who just likes to do random stuff. It's nice to meet you</div>
 #### <div align="center">[My Portfolio](http://koloru.github.io) | Discord: Color#1017 </div>
 ###### <div align="center">Don't hesitate to reach out! I like talking to people(I never shut up)</div>
 
