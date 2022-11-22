@@ -11,17 +11,10 @@
 </div>
 
 ### <div align="center">Hello there! I'm Color. I'm a Frontend developer who just likes to do random stuff. It's nice to meet you</div>
+##### <div align="center">Please don't hesitate to reach out! I like talking to people(I never shut up)</div>
 #### <div align="center">[My Portfolio](http://koloru.github.io) | Discord: Color#1017 </div>
-###### <div align="center">Don't hesitate to reach out! I like talking to people(I never shut up)</div>
-
-  
-
-<br/>  
-
-
-
 <div align="center">
-  <h1>Stuff I'm learning</h1>
+  <h3>Stuff I'm learning</h3>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
