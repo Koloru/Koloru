@@ -7,7 +7,7 @@
   
 </div>  
   
-#### <div align="center">[My Portfolio](http://example/com) | Discord: Color#1017 </div>
+#### <div align="center">[My Portfolio](http://koloru.github.io) | Discord: Color#1017 </div>
 ###### <div align="center">Don't hesitate to reach out! I like talking to people(I never shut up)</div>
 
   
