@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="15" src="https://count.getloli.com/get/@:Koloru"  />
+<img align="right" height="15" src="https://komarev.com/ghpvc/?username=koloru&style=flat-square&color=yellow"  />
 
 ###
 
@@ -25,4 +25,4 @@
 
 ###
 
-<!--  -->
+<!-- https://count.getloli.com/get/@:Koloru -->
