@@ -5,6 +5,10 @@
 <img align="right" height="15" src="https://komarev.com/ghpvc/?username=koloru&style=flat-square&color=yellow"  />
 
 ###
+<br clear="both">
+<p align="left">
+  <a href="https://koloru.github.io">My Portfolio</a>
+</p>
 
 <br clear="both">
 <br clear="both">
@@ -13,9 +17,7 @@
 <div align="center">
   <img height="300" src="https://hidamarirhodonite.kirara.ca/chara2/131/7.png"  />
 </div>
-<p align="center">
-  <a href="https://koloru.github.io">My Portfolio</a>
-</p>
+
 
 ###
 
