@@ -3,9 +3,6 @@
 <br clear="both"/>
 <br>
 
-
-<br>
-
 ### <div align="center">Nice to meet you! I'm Neil/Color/Koloru.</div>
 #### <div align="center">I'm a Frontend developer who just likes to do random stuff and look at others designs.</div>
 #### <div align="center">Please don't hesitate to reach out! I like talking to people</div>
