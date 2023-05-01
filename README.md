@@ -5,15 +5,11 @@
 
 
 <br>
-<div align="center">
-<img src="https://hidamarirhodonite.kirara.ca/chara2/131/7.png" align="center" height="" width="450" />
-  
-</div>
 
 ### <div align="center">Nice to meet you! I'm Neil/Color/Koloru.</div>
-#### <div align="center">I'm a Frontend developer who just likes to do random stuff.</div>
-#### <div align="center">Please don't hesitate to reach out! I like talking to people(I never shut up)</div>
-#### <div align="center">[My Portfolio](http://koloru.github.io) | Discord: Color#1017 </div>
+#### <div align="center">I'm a Frontend developer who just likes to do random stuff and look at others designs.</div>
+#### <div align="center">Please don't hesitate to reach out! I like talking to people</div>
+#### <div align="center">[My Portfolio](http://koloru.dev) | [My Portfolio](http://resume.koloru.dev) | Discord: Color#1017</div>
 <div align="center">
   <h3>Stuff I'm learning</h3>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
