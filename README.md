@@ -3,7 +3,7 @@
 <br clear="both"/>
 <br>
 
-### <div align="center">Hey there, I'm Neil/Koloru and I code things!</div>
+### <div align="center">Hey there, I'm Neil and I code things!</div>
 #### <div align="center">I'm a Frontend developer who just likes to do random stuff and look at others designs.</div>
 #### <div align="center">Please don't hesitate to reach out! I like talking to people</div>
 #### <div align="center">[My Portfolio](http://koloru.dev) | [My Resume](http://resume.koloru.dev) | Discord: FredericaMiyamoto</div>
